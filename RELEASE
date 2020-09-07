@@ -1,2 +1,8 @@
 2020/08/05
   - initial the RELEASE file
+2020/09/01
+  - version: master_hsuehyungtan_2081
+  - features: READr 3.0 release (new home page and article pags)
+2020/09/07
+  - version: 
+  - features: judge a slug to construct a project url
