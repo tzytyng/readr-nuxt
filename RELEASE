@@ -1,2 +1,5 @@
 2020/08/05
   - initial the RELEASE file
+2021/02/09
+  - release version: master_yeefun_261, 1.1.4
+  - features: add /category page, and move /about, /privacy-rule to readr-nuxt. 
